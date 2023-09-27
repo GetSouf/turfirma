@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turfirma 2", "turfirma 2.csproj", "{C07E2E5F-DE89-4C41-A4B6-4F01B94A3BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07E2E5F-DE89-4C41-A4B6-4F01B94A3BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07E2E5F-DE89-4C41-A4B6-4F01B94A3BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07E2E5F-DE89-4C41-A4B6-4F01B94A3BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07E2E5F-DE89-4C41-A4B6-4F01B94A3BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564CEE71-D7D1-42F7-BF8A-19B2A48D9F2D}
+	EndGlobalSection
+EndGlobal
